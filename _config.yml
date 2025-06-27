@@ -1,5 +1,5 @@
 #page title
-page_title                                : Ivy\: Productivity App                     # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : "Ivy: Productivity App"                     # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -11,16 +11,16 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Ivy\: Productivity App                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : "Ivy: Productivity App"                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : Your daily to-dos, made simple.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Matt Frohman                                
+your_name                                 :                                 
 your_link                                 :                      
 your_city                                 : Washington, D.C.                                
 email_address                             : mattfrohman123@gmail.com
@@ -81,7 +81,7 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#000000"
+topbar_color                              : "#146683"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
@@ -91,7 +91,7 @@ cover_overlay_transparency                : 0.8
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#ffffff"
+body_background_color                     : "#bfe9ff"
 
 link_color                                : "#1d63ea"
 
