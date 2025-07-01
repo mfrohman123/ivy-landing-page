@@ -38,24 +38,24 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Daily Planning, Simplified
-    description                           : Based on the Ivy Lee Method: plan six high-impact tasks each day for focused, clutter-free productivity.
+  - title                                 : "Daily Planning, Simplified"
+    description                           : "Based on the Ivy Lee Method: plan six high-impact tasks each day for focused, clutter-free productivity."
     fontawesome_icon_name                 : magic
     
-  - title                                 : One-Tap Task Flow
-    description                           : Check off tasks, swipe to reschedule, and stay in motion—all from a single, intuitive screen.
+  - title                                 : "One-Tap Task Flow"
+    description                           : "Check off tasks, swipe to reschedule, and stay in motion—all from a single, intuitive screen."
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Gentle Nudges, Not Notifications
-    description                           : Stay on track with streaks and subtle reminders designed to motivate, not overwhelm.
+  - title                                 : "Gentle Nudges, Not Notifications"
+    description                           : "Stay on track with streaks and subtle reminders designed to motivate, not overwhelm."
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : No Logins. No Clutter.
-    description                           : Your tasks live securely on your device—no accounts, syncing, or distractions.
+  - title                                 : "No Logins. No Clutter."
+    description                           : "Your tasks live securely on your device—no accounts, syncing, or distractions."
     fontawesome_icon_name                 : sync
 
-  - title                                 : Delightfully Minimal Design
-    description                           : A calm, elegant interface with zero learning curve. Everything you need, nothing you don’t.
+  - title                                 : "Delightfully Minimal Design"
+    description                           : "A calm, elegant interface with zero learning curve. Everything you need, nothing you don’t."
     fontawesome_icon_name                 : adjust
   
   # - title                                 : Feature List
