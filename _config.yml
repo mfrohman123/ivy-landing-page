@@ -23,13 +23,13 @@ enable_smart_app_banner                   : true                                
 your_name                                 :                                 
 your_link                                 :                      
 your_city                                 : Washington, D.C.                                
-email_address                             : mattfrohman123@gmail.com
+email_address                             : 
 linkedin_username                         :                                           
 linkedin_company                          :                                           
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 
-github_username                           : mfrohman123
+github_username                           : 
 youtube_username                          :
 mastodon_link                             : 
 
@@ -40,27 +40,27 @@ features                                  :
 
   - title                                 : "Daily Planning, Simplified"
     description                           : "Based on the Ivy Lee Method: plan six high-impact tasks each day for focused, clutter-free productivity."
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : list-check
     
   - title                                 : "One-Tap Task Flow"
-    description                           : "Check off tasks, swipe to reschedule, and stay in motion—all from a single, intuitive screen."
-    fontawesome_icon_name                 : mobile
+    description                           : "Check off tasks, tap to edit, and stay in motion—all from a single, intuitive screen."
+    fontawesome_icon_name                 : mobile-screen
 
   - title                                 : "Gentle Nudges, Not Notifications"
     description                           : "Stay on track with streaks and subtle reminders designed to motivate, not overwhelm."
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : bell
 
   - title                                 : "No Logins. No Clutter."
     description                           : "Your tasks live securely on your device—no accounts, syncing, or distractions."
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : user
 
   - title                                 : "Delightfully Minimal Design"
     description                           : "A calm, elegant interface with zero learning curve. Everything you need, nothing you don’t."
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : mountain
   
-  # - title                                 : Feature List
-  #   description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-  #   fontawesome_icon_name                 : star
+  - title                                 : "Insightful Progress Cues"
+    description                           : "See how often you finish your list, when you're most productive, and how your focus is improving—no spreadsheets needed."
+    fontawesome_icon_name                 : chart-simple
 
   # - title                                 : Smart App Banner
   #   description                           : Display a smart app banner on iOS devices.
