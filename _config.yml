@@ -40,11 +40,11 @@ features                                  :
 
   - title                                 : "Daily Planning, Simplified"
     description                           : "Based on the Ivy Lee Method: plan six high-impact tasks each day for focused, clutter-free productivity."
-    fontawesome_icon_name                 : list-check
+    fontawesome_icon_name                 : list
     
   - title                                 : "One-Tap Task Flow"
     description                           : "Check off tasks, tap to edit, and stay in motion—all from a single, intuitive screen."
-    fontawesome_icon_name                 : mobile-screen
+    fontawesome_icon_name                 : mobile
 
   - title                                 : "Gentle Nudges, Not Notifications"
     description                           : "Stay on track with streaks and subtle reminders designed to motivate, not overwhelm."
@@ -60,7 +60,7 @@ features                                  :
   
   - title                                 : "Insightful Progress Cues"
     description                           : "See how often you finish your list, when you're most productive, and how your focus is improving—no spreadsheets needed."
-    fontawesome_icon_name                 : chart-simple
+    fontawesome_icon_name                 : chart-line
 
   # - title                                 : Smart App Banner
   #   description                           : Display a smart app banner on iOS devices.
