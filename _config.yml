@@ -2,7 +2,7 @@
 page_title                                : "Ivy: Productivity App"                     # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 6744418405                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             : "https://apps.apple.com/us/app/ivy-productivity-app/id6744418405"                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
@@ -23,7 +23,7 @@ enable_smart_app_banner                   : true                                
 your_name                                 :                                 
 your_link                                 :                      
 your_city                                 : Washington, D.C.                                
-email_address                             : 
+email_address                             : "mattfrohman123@gmail.com"
 linkedin_username                         :                                           
 linkedin_company                          :                                           
 facebook_username                         :                                           
