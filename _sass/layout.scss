@@ -634,11 +634,17 @@ footer {
 	display: flex;
 	text-align: center;
 	padding-bottom: 70px;
-	color: $footer-text-color;
 }
 
 .footerLinks a {
 	margin-right: 30px;
+	color: #000;
+}
+
+.footerLinks a:hover,
+.footerLinks a:active {
+    color: #1d63ea; // Ensure hover and active states are blue
+    text-decoration: none;
 }
 
 .footerLinks a:last-child {
@@ -656,11 +662,18 @@ footer {
 		justify-content: stretch;
 		margin-right: 0px;
 		margin-top: 20px;
+		color: #000;
 	}
 
 	.footerLinks a:first-child {
 		margin-top: 0px;
 	}	
+
+	.footerLinks a:hover,
+	.footerLinks a:active {
+		color: #1d63ea; // Ensure hover and active states are blue
+		text-decoration: none;
+	}
 
 }
 
